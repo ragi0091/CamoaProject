@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice3</string>
+    <string-array name="musiclist">
+        <item>happy</item>
+        <item>twice</item>
+        <item>wildflower</item>
+    </string-array>
+</resources>
